@@ -1,0 +1,65 @@
+[
+    {
+       "id":1,
+       "name":"Story Book",
+       "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate laborum",
+       "price":0,
+       "category":"Free",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1720799327~exp=1720799927~hmac=4d7fd678a8dc6274d50945359bd00a77d96532d5ca8fceae3ca3b09cd5ef9db0"
+
+    },
+    {
+       "id":2,
+       "name":"Story Book",
+       "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate laborum",
+       "price":0,
+       "category":"Free",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1720799327~exp=1720799927~hmac=4d7fd678a8dc6274d50945359bd00a77d96532d5ca8fceae3ca3b09cd5ef9db0"
+
+    },
+    {
+       "id":3,
+       "name":"Story Book",
+       "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate laborum",
+       "price":0,
+       "category":"Free",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1720799327~exp=1720799927~hmac=4d7fd678a8dc6274d50945359bd00a77d96532d5ca8fceae3ca3b09cd5ef9db0"
+
+    },
+    {
+       "id":4,
+       "name":"Story Book",
+       "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate laborum",
+       "price":0,
+       "category":"Free",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1720799327~exp=1720799927~hmac=4d7fd678a8dc6274d50945359bd00a77d96532d5ca8fceae3ca3b09cd5ef9db0"
+
+    },
+    {
+       "id":5,
+       "name":"Horror Book",
+       "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate laborum",
+       "price":10,
+       "category":"Entertainment",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1720799327~exp=1720799927~hmac=4d7fd678a8dc6274d50945359bd00a77d96532d5ca8fceae3ca3b09cd5ef9db0"
+
+    },
+    {
+       "id":6,
+       "name":"Educational Book",
+       "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate laborum",
+       "price":20,
+       "category":"Education",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1720799327~exp=1720799927~hmac=4d7fd678a8dc6274d50945359bd00a77d96532d5ca8fceae3ca3b09cd5ef9db0"
+
+    },
+    {
+       "id":7,
+       "name":"Trading Book",
+       "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate laborum",
+       "price":15,
+       "category":"Finance",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1720799327~exp=1720799927~hmac=4d7fd678a8dc6274d50945359bd00a77d96532d5ca8fceae3ca3b09cd5ef9db0"
+
+    }
+]
