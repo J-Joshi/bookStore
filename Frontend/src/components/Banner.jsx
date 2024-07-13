@@ -11,7 +11,7 @@ function Banner() {
               <span className="text-pink-500"> new everyday</span>
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+              Lorem ipsum dolor sit amettetur adipisicing elit. Voluptate
               laborum saepe sunt necessitatibus recusandae reiciendis, rem iure
               officiis, nisi, similique illo veniam facere ipsam. Modi nemo
               iusto cum quos dignissimos?
@@ -29,7 +29,7 @@ function Banner() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="mt-6 btn btn-secondary">Secondary</button>
+          <button className="mt-6 btn btn-secondary">Let's Go!!</button>
         </div>
         <div className="order 1 md:order-2  md:w-1/2 mt-12 md:mt-32">
           <img src={BANNER} className="w-85 h-80 mx-12 my-8" alt="" />
