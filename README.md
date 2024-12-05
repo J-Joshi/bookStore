@@ -1,6 +1,6 @@
 # 📚 BookStore Website
 
-Welcome to the **BookStore** GitHub repository! This project is a simple book listing website where users can browse books, explore free courses, and add books to a cart. The website focuses on providing a platform for book exploration and management, with admin-only features for adding books.
+Welcome to the **BookStore** GitHub repository! This project is a simple book listing website where users can browse books, explore free courses. The website focuses on providing a platform for book exploration and management, with admin-only features for adding books.
 
 ---
 
@@ -27,8 +27,9 @@ Welcome to the **BookStore** GitHub repository! This project is a simple book li
 
 ## ❗ Limitations
 
-- **No Purchase Feature:** Users can add books to the cart, but the functionality to proceed with a purchase is not implemented.
-- **Admin-only Book Management:** Only admins have the privilege to add or manage books.
+- **No Cart or Purchase Feature:** Users can only browse books. There is no functionality to add books to a cart or proceed with purchases.
+- **Admin-only Book Management:** Only the admin has the ability to add or update book details.
+- **Static Book Listing:** The website primarily serves as a showcase for books with no interactive features for the users apart from viewing the details.
 
 ---
 
