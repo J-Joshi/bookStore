@@ -8,7 +8,6 @@ Welcome to the **BookStore** GitHub repository! This project is a simple book li
 
 - **Book Listing:** Display a collection of books with details like title, author, price, and cover image.
 - **Search and Filter:** Search for books by title, author, or genre, and filter results by categories.
-- **Shopping Cart:** Add books to the cart and view the cart summary. *(Note: The buying feature is not implemented.)*
 - **Admin Panel:** Admins can add and manage books.
 - **Free Courses Section:** Explore free offered courses with beautiful visuals.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
@@ -42,8 +41,3 @@ Welcome to the **BookStore** GitHub repository! This project is a simple book li
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/J-Joshi/bookStore.git
