@@ -18,10 +18,10 @@ Welcome to the **BookStore** GitHub repository! This project is a simple book li
 ## 🖼️ Screenshots
 
 ### Homepage
-![Homepage]([./assets/homepage.png](https://github.com/J-Joshi/bookStore/blob/master/Screenshot%202024-12-05%20225843.png))
+![Homepage](https://github.com/J-Joshi/bookStore/blob/master/Frontend/Screenshot%202024-12-05%20225843.png)
 
 ### Free Courses Section
-![Free Courses]([./assets/free_courses.png](https://github.com/J-Joshi/bookStore/blob/master/Screenshot%202024-12-05%20225913.png))
+![Free Courses](https://github.com/J-Joshi/bookStore/blob/master/Frontend/Screenshot%202024-12-05%20225913.png)
 
 ---
 
